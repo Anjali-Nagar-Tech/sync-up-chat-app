@@ -12,7 +12,7 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your local machin
 
 ### 1. Clone the Repository
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/Anjali-Nagar-Tech/sync-up-chat-app.git
 cd SyncUp-Chat-App
 
 2. Set Up the Backend
@@ -30,22 +30,24 @@ Start the backend development server:
 
 Bash
 npm run dev
-3. Set Up the Frontend
+3. Set Up the Frontend (React Native + Expo)
 Open a new terminal window or tab and navigate to the frontend folder:
 
 Bash
 cd frontend
-Install the required dependencies:
+Install the required mobile dependencies:
 
 Bash
 npm install
-Create a .env file in the root of the frontend folder if your framework requires API base URLs (e.g., VITE_API_URL=http://localhost:5000).
-
-Start the frontend development server:
+Start the Expo development server:
 
 Bash
-npm run dev
-🌐 Live Backend URL
+npx expo start
+To run the app:
+
+On a physical device: Install the Expo Go app from the App Store (iOS) or Play Store (Android). Scan the QR code displayed in your terminal with your device's camera or the Expo Go app.
+
+On an emulator/simulator: Press a in your terminal to open the Android Emulator, or i to open the iOS Simulator (Mac required).🌐 Live Backend URL
 The backend API is deployed and accessible live at: 
 
 🔗 
