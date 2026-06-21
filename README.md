@@ -9,15 +9,6 @@ A real-time chat application featuring a decoupled frontend and backend architec
 ### Prerequisites
 Make sure you have [Node.js](https://nodejs.org/) installed on your local machine.
 
-Account 1
-Username: Vivek Shukla
-
-Password: Yes@2525
-
-Account 2
-Username: Abhinav Desai
-
-Password: No@2525
 
 ### 1. Clone the Repository
 ```bash
@@ -72,7 +63,7 @@ Username: Abhinav Desai
 
 Password: No@2525
 
-💬 Chat History Approach :
+
 
 💬 Chat History Approach
 This project implements Option B (Server-Side Storage / Database Persistence) for handling chat logs.
