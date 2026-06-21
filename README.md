@@ -50,7 +50,7 @@ On a physical device: Install the Expo Go app from the App Store (iOS) or Play S
 On an emulator/simulator: Press a in your terminal to open the Android Emulator, or i to open the iOS Simulator (Mac required).🌐 Live Backend URL
 The backend API is deployed and accessible live at: 
 
-🔗 
+🔗 https://authentic-kindness-production-95b1.up.railway.app 
 
 🔑 Test Credentials
 Use these pre-configured accounts to test the real-time chat functionality across multiple browser sessions:
@@ -64,6 +64,11 @@ Account 2
 Username: Abhinav Desai
 
 Password: No@2525
+
+Account 3
+Username : John Vran
+
+Password: Yes@2525
 
 
 
