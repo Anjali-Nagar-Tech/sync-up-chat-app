@@ -1,7 +1,7 @@
 # SyncUp Chat App
 
 A real-time chat application featuring a decoupled frontend and backend architecture.
-Direct download link - https://expo.dev/accounts/anjali_nagar/projects/syncup/builds/a0666310-2959-4107-b8ac-a2fe42b865cc
+Direct download link - https://drive.google.com/file/d/1WlABpbWn7-ATog8KVZhUJHCudxDEy2pD/view?usp=sharing 
 
 ---
 
